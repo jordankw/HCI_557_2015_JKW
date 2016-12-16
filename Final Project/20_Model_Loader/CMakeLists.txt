@@ -29,39 +29,48 @@ include_directories(${GLEW_INCLUDE_DIR})
 include_directories(${GLFW3_INCLUDE_DIR})
 include_directories(${GLM_INCLUDE_DIR})
 include_directories(${OPENGL_INCLUDE_DIR})
-include_directories(${CMAKE_SOURCE_DIR}/../gl_common/)
+include_directories(${CMAKE_SOURCE_DIR} common/)
 
 # Add all files to the configuration
 file(GLOB HCI557_ObjLoader_SRC
 	main_model_loader_example.cpp
-    ../gl_common/Sphere3D.h
-    ../gl_common/Sphere3D.cpp
-    ../gl_common/HCI557Common.cpp
-    ../gl_common/HCI557Common.h
-	../gl_common/controls.cpp
-    ../gl_common/controls.h
-	../gl_common/CoordSystem.cpp
-    ../gl_common/CoordSystem.h
-	../gl_common/GLObject.h
-   	../gl_common/GLObject.cpp
-    ../gl_common/GLSphere.cpp
-    ../gl_common/GLSphere.h
-    ../gl_common/Shaders.h
-    ../gl_common/Shaders.cpp
-    ../gl_common/HCI557Datatypes.h
-    ../gl_common/GLAppearanceBase.h
-    ../gl_common/GLAppearance.h
-    ../gl_common/GLAppearance.cpp
-	../gl_common/camera.h
-	../gl_common/camera.cpp
-    ../gl_common/GLObjectObj.h
-    ../gl_common/GLObjectObj.cpp
-
+    common/Sphere3D.h
+    common/Sphere3D.cpp
+    common/HCI557Common.cpp
+    common/HCI557Common.h
+	common/controls.cpp
+    common/controls.h
+	common/CoordSystem.cpp
+    common/CoordSystem.h
+	common/GLObject.h
+   	common/GLObject.cpp
+    common/GLSphere.cpp
+    common/GLSphere.h
+    common/Shaders.h
+    common/Shaders.cpp
+    common/HCI557Datatypes.h
+    common/GLAppearanceBase.h
+    common/GLAppearance.h
+    common/GLAppearance.cpp
+	common/camera.h
+	common/camera.cpp
+    common/GLObjectObj.h
+    common/GLObjectObj.cpp
+	Car.h
+	Car.cpp
+	ImgLoader.h
+	ImgLoader.cpp
 )
 
 set(HCI557_RES
-	../data/shaders/multi_vertex_lights.fs
-    ../data/shaders/multi_vertex_lights.vs
+	shaders/multi_vertex_lights.fs
+    shaders/multi_vertex_lights.vs
+	shaders/multi_pixel_lights.fs
+    shaders/multi_pixel_lights.vs
+	shaders/displacement_texture.fs
+    shaders/displacement_texture.vs
+	shaders/spotlight.fs
+    shaders/spotlight.vs
 )
 
 

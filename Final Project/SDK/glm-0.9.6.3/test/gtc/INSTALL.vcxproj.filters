@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\CMakeFiles\fa132a02aab42076c39dff107410ebdb\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E9BBCBE6-C8AA-3543-BB8D-235CE133F900}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

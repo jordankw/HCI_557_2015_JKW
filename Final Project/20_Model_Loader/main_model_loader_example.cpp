@@ -1,9 +1,9 @@
 //
-//  main_spotlight.cpp
-//  HCI 557 Spotlight example
+//  HCI 557 Final Project
+//  Jordan Williams
 //
-//  Created by Rafael Radkowski on 5/28/15.
-//  Copyright (c) 2015 -. All rights reserved.
+//  
+//  
 //
 
 // stl include
