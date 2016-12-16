@@ -1,0 +1,9 @@
+*.tlog
+*.rule
+*.check_cache
+*.bin
+*.cxx
+*.stamp
+*.opendb
+*.db
+Final Project/20_Model_Loader/CMakeFiles/
