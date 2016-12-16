@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glew-1.13.0
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glew-1.13.0
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -28,6 +28,6 @@ if(NOT CMAKE_INSTALL_COMPONENT)
 endif()
 
 if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glewConfig.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/glew" TYPE FILE FILES "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glewConfig.cmake")
 endif()
 

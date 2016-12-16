@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

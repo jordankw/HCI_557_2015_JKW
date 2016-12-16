@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\CMakeFiles\12204c03f9ee1f61fe703a447248bcd1\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\CMakeFiles\bc8890a01f7f5cbe9e5c5b25c0bb17e7\INSTALL_force.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{E9BBCBE6-C8AA-3543-BB8D-235CE133F900}</UniqueIdentifier>
+      <UniqueIdentifier>{CE09FB25-7809-3175-901E-D3E2826CF443}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

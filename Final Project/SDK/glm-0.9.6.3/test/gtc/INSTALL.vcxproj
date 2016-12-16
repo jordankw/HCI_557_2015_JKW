@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGUID>{F642823B-861D-305C-9201-5D7D0E778180}</ProjectGUID>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <ProjectGUID>{6000E0EA-4F31-3C39-8994-C69C4CB29A0A}</ProjectGUID>
     <Keyword>Win32Proj</Keyword>
     <Platform>Win32</Platform>
     <ProjectName>INSTALL</ProjectName>
@@ -66,7 +65,7 @@
     </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI-557-CG-master\SDK;C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -88,7 +87,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI-557-CG-master\SDK;C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -110,7 +109,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI-557-CG-master\SDK;C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -132,7 +131,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI-557-CG-master\SDK;C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\test\external;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -153,7 +152,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\CMakeFiles\fa132a02aab42076c39dff107410ebdb\INSTALL_force.rule">
+    <CustomBuild Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\CMakeFiles\65ce15253cda8c6ac7b5819314ce7450\INSTALL_force.rule">
       <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
 cd .
@@ -164,8 +163,8 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/CMakeFiles/fa132a02aab42076c39dff107410ebdb/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/CMakeFiles/65ce15253cda8c6ac7b5819314ce7450/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
@@ -177,8 +176,8 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/CMakeFiles/fa132a02aab42076c39dff107410ebdb/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/CMakeFiles/65ce15253cda8c6ac7b5819314ce7450/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
@@ -190,8 +189,8 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/CMakeFiles/fa132a02aab42076c39dff107410ebdb/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/CMakeFiles/65ce15253cda8c6ac7b5819314ce7450/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
       <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'"> </Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
@@ -203,17 +202,17 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/CMakeFiles/fa132a02aab42076c39dff107410ebdb/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/CMakeFiles/65ce15253cda8c6ac7b5819314ce7450/INSTALL_force.rule;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glm-0.9.6.3\test\gtc\CMakeFiles\INSTALL_force</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/ZERO_CHECK.vcxproj">
-      <Project>D7B954AD-A716-36D1-A0F1-16C5BA42FCA9</Project>
+    <ProjectReference Include="C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/ZERO_CHECK.vcxproj">
+      <Project>0F7AAA89-E4B1-3958-A7E7-9C531373F1C1</Project>
     </ProjectReference>
-    <ProjectReference Include="C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/ALL_BUILD.vcxproj">
-      <Project>14842238-DBF8-3030-927A-633469045E6E</Project>
+    <ProjectReference Include="C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/ALL_BUILD.vcxproj">
+      <Project>93B1201A-8F81-36E8-BC83-4501D59A3AF3</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

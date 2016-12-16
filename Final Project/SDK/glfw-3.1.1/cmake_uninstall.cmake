@@ -1,9 +1,9 @@
 
-if (NOT EXISTS "C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glfw-3.1.1/install_manifest.txt")
-  message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glfw-3.1.1/install_manifest.txt\"")
+if (NOT EXISTS "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glfw-3.1.1/install_manifest.txt")
+  message(FATAL_ERROR "Cannot find install manifest: \"C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glfw-3.1.1/install_manifest.txt\"")
 endif()
 
-file(READ "C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glfw-3.1.1/install_manifest.txt" files)
+file(READ "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glfw-3.1.1/install_manifest.txt" files)
 string(REGEX REPLACE "\n" ";" files "${files}")
 
 foreach (file ${files})

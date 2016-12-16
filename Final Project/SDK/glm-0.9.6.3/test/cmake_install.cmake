@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,10 +29,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/bug/cmake_install.cmake")
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/core/cmake_install.cmake")
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/gtc/cmake_install.cmake")
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/gtx/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/bug/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/core/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/gtc/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/gtx/cmake_install.cmake")
 
 endif()
 

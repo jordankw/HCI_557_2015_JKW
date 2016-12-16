@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/gtc
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/gtc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

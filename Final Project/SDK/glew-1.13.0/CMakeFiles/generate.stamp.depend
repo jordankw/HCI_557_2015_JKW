@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glew-1.13.0/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files/CMake/share/cmake-3.6/Modules/CMakeParseArguments.cmake
+C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glew-1.13.0/src/glewConfig.cmake.in

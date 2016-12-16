@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\tests\threads.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\deps\tinycthread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\deps\tinycthread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\tests\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B29D20C9-B20D-3A9E-8189-70C84F6AD3C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F6E62344-8BE1-32F9-A022-852768437DD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

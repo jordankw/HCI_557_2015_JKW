@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGUID>{C0BAF266-CCEF-3EE8-8331-66C45A7EE8AE}</ProjectGUID>
-    <WindowsTargetPlatformVersion>10.0.14393.0</WindowsTargetPlatformVersion>
+    <ProjectGUID>{FFB63189-6D46-3A5B-AB21-75A413CF23D2}</ProjectGUID>
     <Keyword>Win32Proj</Keyword>
     <Platform>Win32</Platform>
     <ProjectName>HCI557_ObjLoader</ProjectName>
@@ -59,25 +58,25 @@
   <PropertyGroup Label="UserMacros" />
     <PropertyGroup>
       <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Debug\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Debug\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">HCI557_ObjLoader.dir\Debug\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">HCI557_ObjLoader</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Release\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Release\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">HCI557_ObjLoader.dir\Release\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">HCI557_ObjLoader</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\MinSizeRel\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\MinSizeRel\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">HCI557_ObjLoader.dir\MinSizeRel\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">HCI557_ObjLoader</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
       <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
       <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
-      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\RelWithDebInfo\</OutDir>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\RelWithDebInfo\</OutDir>
       <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">HCI557_ObjLoader.dir\RelWithDebInfo\</IntDir>
       <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">HCI557_ObjLoader</TargetName>
       <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
@@ -86,7 +85,7 @@
     </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Debug/</AssemblerListingLocation>
       <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
       <CompileAs>CompileAsCpp</CompileAs>
@@ -103,10 +102,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -115,12 +114,12 @@
     </Midl>
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\glew32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glew-1.13.0\lib\Release\Win32\glew32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>Debug</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Debug/HCI557_ObjLoader.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Debug/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Debug/HCI557_ObjLoader.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Debug/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -130,7 +129,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>Release/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -146,10 +145,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -158,12 +157,12 @@
     </Midl>
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\glew32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glew-1.13.0\lib\Release\Win32\glew32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>No</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Release/HCI557_ObjLoader.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Release/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Release/HCI557_ObjLoader.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/Release/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -173,7 +172,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <ExceptionHandling>Sync</ExceptionHandling>
@@ -189,10 +188,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -201,12 +200,12 @@
     </Midl>
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\glew32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glew-1.13.0\lib\Release\Win32\glew32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>No</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/MinSizeRel/HCI557_ObjLoader.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/MinSizeRel/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/MinSizeRel/HCI557_ObjLoader.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/MinSizeRel/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -216,7 +215,7 @@
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
     <ClCompile>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
       <CompileAs>CompileAsCpp</CompileAs>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
@@ -232,10 +231,10 @@
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ResourceCompile>
     <Midl>
-      <AdditionalIncludeDirectories>C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\include;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
       <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
       <HeaderFileName>%(Filename).h</HeaderFileName>
       <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
@@ -244,12 +243,12 @@
     </Midl>
     <Link>
       <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
-      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\glew32.lib;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glew-1.13.0\lib\Release\Win32\glew32.lib;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\lib\Release\glfw.lib;glu32.lib;opengl32.lib;glu32.lib;opengl32.lib</AdditionalDependencies>
       <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <GenerateDebugInformation>Debug</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/RelWithDebInfo/HCI557_ObjLoader.lib</ImportLibrary>
-      <ProgramDataBaseFile>C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/RelWithDebInfo/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/RelWithDebInfo/HCI557_ObjLoader.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/RelWithDebInfo/HCI557_ObjLoader.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
       <Version></Version>
     </Link>
@@ -258,10 +257,10 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt">
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
+    <CustomBuild Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -269,12 +268,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCCompiler.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCCompiler.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -282,12 +281,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCCompiler.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCCompiler.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -295,12 +294,12 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCCompiler.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCCompiler.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
+"C:\Program Files\CMake\bin\cmake.exe" "-HC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" "-BC:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader" --check-stamp-file "C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -308,43 +307,43 @@ endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
 exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
-      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCCompiler.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.7.0-rc2\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.7\Modules\CMakeParseArguments.cmake;C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInitialize.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCCompiler.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeCXXCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\WindowsPaths.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\3.6.1\CMakeRCCompiler.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeCommonLanguageInclude.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlew.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlm.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\cmake\FindGlfw3.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.6\Modules\CMakeParseArguments.cmake;C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Sphere3D.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\CoordSystem.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObject.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Shaders.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Datatypes.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearanceBase.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearance.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Car.h" />
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\ImgLoader.h" />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Sphere3D.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\CoordSystem.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObject.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Shaders.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearance.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Car.cpp"  />
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\ImgLoader.cpp"  />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Sphere3D.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\CoordSystem.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObject.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Shaders.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Datatypes.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearanceBase.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearance.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Car.h" />
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\ImgLoader.h" />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Sphere3D.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\CoordSystem.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObject.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Shaders.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLAppearance.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Car.cpp"  />
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\ImgLoader.cpp"  />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="C:/Users/Jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/ZERO_CHECK.vcxproj">
-      <Project>0917D459-A39C-3F21-8AD5-F25E9A7C5BAE</Project>
+    <ProjectReference Include="C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/ZERO_CHECK.vcxproj">
+      <Project>092AC303-97D5-3C76-A02B-90572B2546B3</Project>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

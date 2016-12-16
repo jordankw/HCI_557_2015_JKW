@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/util
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/util
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -36,6 +36,6 @@ if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMP
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "C:/Program Files (x86)/OpenGL_CS557/lib/cmake" TYPE FILE FILES "C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/util/FindGLM.cmake")
+file(INSTALL DESTINATION "C:/Program Files (x86)/OpenGL_CS557/lib/cmake" TYPE FILE FILES "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/util/FindGLM.cmake")
 endif()
 

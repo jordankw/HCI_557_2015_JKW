@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glfw-3.1.1/tests/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\tests\CMakeFiles\generate.stamp is up-to-date.
+  peter.c
+  peter.vcxproj -> C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\tests\Release\peter.exe

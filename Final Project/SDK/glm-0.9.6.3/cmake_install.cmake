@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3
+# Install script for directory: C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -36,14 +36,14 @@ if("${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMP
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "C:/Program Files (x86)/OpenGL_CS557/include" TYPE DIRECTORY FILES "C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/glm")
+file(INSTALL DESTINATION "C:/Program Files (x86)/OpenGL_CS557/include" TYPE DIRECTORY FILES "C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/glm")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/glm/cmake_install.cmake")
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/test/cmake_install.cmake")
-  include("C:/Users/Jordan/Documents/HCI-557-CG-master/SDK/glm-0.9.6.3/util/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/glm/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/test/cmake_install.cmake")
+  include("C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glm-0.9.6.3/util/cmake_install.cmake")
 
 endif()
 

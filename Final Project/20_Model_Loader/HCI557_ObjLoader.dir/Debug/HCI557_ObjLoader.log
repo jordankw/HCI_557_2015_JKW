@@ -1,0 +1,80 @@
+﻿  Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/20_Model_Loader/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\CMakeFiles\generate.stamp is up-to-date.
+  main_model_loader_example.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(50): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(152): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(201): warning C4316: 'CoordSystem': object allocated on the heap may not be aligned 16
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(217): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(220): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(227): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(230): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(235): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(243): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(303): warning C4316: 'GLObjectObj': object allocated on the heap may not be aligned 16
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(307): warning C4316: 'GLObjectObj': object allocated on the heap may not be aligned 16
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(311): warning C4316: 'GLObjectObj': object allocated on the heap may not be aligned 16
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(315): warning C4316: 'GLObjectObj': object allocated on the heap may not be aligned 16
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\main_model_loader_example.cpp(503): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sphere3D.cpp
+  HCI557Common.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp(132): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp(133): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp(242): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\HCI557Common.cpp(251): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  controls.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.cpp(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.cpp(51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\controls.cpp(59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CoordSystem.cpp
+  GLObject.cpp
+  GLSphere.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(283): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(346): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(359): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(561): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(562): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(563): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(568): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(569): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(570): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(574): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(575): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(576): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(581): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLSphere.cpp(582): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Shaders.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\Shaders.cpp(195): warning C4244: 'argument': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+  GLAppearance.cpp
+  camera.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.cpp(156): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\camera.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GLObjectObj.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(51): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(67): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(266): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(274): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(275): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(276): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(278): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(279): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(280): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(282): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(283): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(284): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(298): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(341): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\common\GLObjectObj.cpp(354): warning C4018: '<': signed/unsigned mismatch
+  Car.cpp
+  ImgLoader.cpp
+C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\ImgLoader.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating Code...
+c:\users\jordan\documents\hci_557_2015_jkw\final project\20_model_loader\common\hci557common.cpp(93): warning C4715: 'GetCurrentCameraTranslation': not all control paths return a value
+c:\users\jordan\documents\hci_557_2015_jkw\final project\20_model_loader\common\hci557common.cpp(75): warning C4715: 'GetCurrentCameraMatrix': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  HCI557_ObjLoader.vcxproj -> C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\20_Model_Loader\Debug\HCI557_ObjLoader.exe

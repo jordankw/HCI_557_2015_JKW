@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/jordan/Documents/HCI_557_2015_JKW/Final Project/SDK/glfw-3.1.1/examples/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\examples\CMakeFiles\generate.stamp is up-to-date.
+  simple.c
+  simple.vcxproj -> C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\examples\Debug\simple.exe

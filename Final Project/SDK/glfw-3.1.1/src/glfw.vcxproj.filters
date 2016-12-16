@@ -1,78 +1,78 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\context.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\context.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\init.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\init.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\input.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\input.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\monitor.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\monitor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\window.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\window.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_init.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_init.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_monitor.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_monitor.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_time.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_time.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_tls.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_tls.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_window.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_window.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\winmm_joystick.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\winmm_joystick.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\wgl_context.c">
+    <ClCompile Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\wgl_context.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\internal.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\internal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\glfw_config.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\glfw_config.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\include\GLFW\glfw3.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\include\GLFW\glfw3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\include\GLFW\glfw3native.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\include\GLFW\glfw3native.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_platform.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_platform.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\win32_tls.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\win32_tls.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\winmm_joystick.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\winmm_joystick.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\wgl_context.h">
+    <ClInclude Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\wgl_context.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Users\Jordan\Documents\HCI-557-CG-master\SDK\glfw-3.1.1\src\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\jordan\Documents\HCI_557_2015_JKW\Final Project\SDK\glfw-3.1.1\src\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{FDAFB6BD-4F4E-3F05-97B1-1C364567E881}</UniqueIdentifier>
+      <UniqueIdentifier>{B29D20C9-B20D-3A9E-8189-70C84F6AD3C0}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{CE1C72F9-7A8D-3B3F-B95D-E5CDAF916696}</UniqueIdentifier>
+      <UniqueIdentifier>{F6E62344-8BE1-32F9-A022-852768437DD0}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
