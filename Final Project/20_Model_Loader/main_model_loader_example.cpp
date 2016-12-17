@@ -167,10 +167,6 @@ int main(int argc, const char * argv[])
 	}
 
 
-	//conePositions.push_back(glm::vec2(-10.f, 10.f));
-	//conePositions.push_back(glm::vec2(10.f, -10.f));
-	//conePositions.push_back(glm::vec2(-10.f, -10.f));
-	//conePositions.push_back(glm::vec2(10.f, 10.f));
 	vector<glm::vec2>::iterator it;
 	vector<glm::vec3>::iterator it2;
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -205,22 +201,11 @@ int main(int argc, const char * argv[])
     GLAppearance* appearance_0 = new GLAppearance("../shaders/multi_pixel_lights.vs", "../shaders/multi_pixel_lights.fs");
 	GLAppearance* appearance_1 = new GLAppearance("../shaders/multi_vertex_lights.vs", "../shaders/multi_vertex_lights.fs");
 	GLAppearance* appearance_2 = new GLAppearance("../shaders/multi_vertex_lights.vs", "../shaders/multi_vertex_lights.fs");
-	//appearance_0->setTexture();
 	GLAppearance* appearance_3 = new GLAppearance("../shaders/displacement_texture.vs", "../shaders/displacement_texture.fs");
 
 
 	//Create Lights
     
-
-	GLSpotLightSource spot_1;
-	spot_1._lightPos = glm::vec4(0.0, 50.0, 0.0, 1.0);
-	spot_1._ambient_intensity = 0.3;
-	spot_1._specular_intensity = 5.5;
-	spot_1._diffuse_intensity = 2.0;
-	spot_1._attenuation_coeff = 0.001;
-
-	spot_1._cone_direction = glm::vec3(1.0f, 0.0f, 0.0f);
-	spot_1._cone_angle = 60.f;
 
 	GLPointLightSource point_1;
 	point_1._lightPos = glm::vec4(0.0, 50.0, 0.0, 0.0);
@@ -252,7 +237,6 @@ int main(int argc, const char * argv[])
 	appearance_2->addLightSource(light_source2);
 	appearance_2->addLightSource(point_1);
 	appearance_3->addLightSource(light_source);
-	//appearance_3->addLightSource(spot_1);
 
     // Create a material object
     GLMaterial material_0, material_1, material_2, material_3;
@@ -516,8 +500,6 @@ int main(int argc, const char * argv[])
 
 		if (throttle) {
 			if (rev) {
-				//carLocation *= glm::translate()
-				//carLocation[2] -= 0.5;
 
 				blueCar.currentState = Car::State::reverseThrottle;
 			}
@@ -551,7 +533,6 @@ int main(int argc, const char * argv[])
 		glm::mat4 curTransform = glm::translate(posTrans);
 		glm::mat4 result = blueCar.getTransform() *  glm::translate(glm::vec3(0, curHeight, 0)) * tranform ;
 
-		//light_source2._lightPos = initLightPos * blueCar.getTransform();
 
 		// Set Camera view
 		if (cv == stationary) {
@@ -570,8 +551,7 @@ int main(int argc, const char * argv[])
 		middleCar.y = 2.0f;
 		point_1._lightPos = glm::vec4(middleCar, 1.0);
 		//light_source2._lightPos = glm::vec4(blueCar.getForward().x, blueCar.getForward().y, blueCar.getForward().z, 0.0f);
-		//spot_1._
-		//spot_1._cone_direction = blueCar.getForward();
+
 		
 		if (headlights) {
 			point_1.setSpecular(5.5f);
